@@ -1,7 +1,7 @@
 package com.mycompany.employeedetails;
 public class Employee2 
 {
-   private String name1;
+   private String name;
    private double basicSalary;
    private double bonus;
    
